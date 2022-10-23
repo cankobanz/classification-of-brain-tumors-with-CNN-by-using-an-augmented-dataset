@@ -1,6 +1,8 @@
 # classification-of-brain-tumors-with-CNN-by-using-an-augmented-dataset
 Classification of brain tumors with CNN is applied. After that, experiments are repeated with augmented dataset.
 
+For dataset: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+
 ![image](https://user-images.githubusercontent.com/81170575/197383482-7bd6a935-9d10-470a-aae5-a530bf1fa293.png)
 
 
